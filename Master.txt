@@ -1,4 +1,1 @@
 
-<Version: 1.01>
-/data/Map003.json https://raw.githubusercontent.com/lvchrpax/RipplesUpdater/main/Map003.json
-<End of Version>
