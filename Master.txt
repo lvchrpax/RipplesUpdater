@@ -1,4 +1,1 @@
 
-<Version: 2.00>
-/js/plugins/X_ChapterSelect.js https://raw.githubusercontent.com/lvchrpax/RipplesUpdater/main/X_ChapterSelect.js
-<End of Version>
